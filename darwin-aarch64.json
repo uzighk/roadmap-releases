@@ -1,11 +1,11 @@
 {
-  "version": "3.4.2",
-  "notes": "Replaced NEW badge with sparkle emoji ✨",
-  "pub_date": "2026-05-17T04:42:35Z",
+  "version": "3.4.3",
+  "notes": "Rocket emoji 🚀 added to header",
+  "pub_date": "2026-05-17T05:04:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWlYQ2tjM0xSYnJYdVRuYmZxaFljWndyMk0wR0xDa2VRZ1RTa3NrVVk3Ym1DSkNhd01xRUJ3TTZqb2tmSHV4T21qSllzckNsVWpWNUZYN2NXS1p1bm1XSEFZblo2Q0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTkzNTM1CWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjJfYWFyY2g2NC5kbWcKeENNN3N6R1MyYjI3TGNqbU11ZXRUNmkzTW5ranVUbklnbHhtQ1VPYytCazFteHhKYmJKaVQyd0lxcEQxbDI0QjlQWm56SERwU3RRZHQxQ0pVNUN1Q0E9PQo=",
-      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.2/Road-Companion_3.4.2_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWlYQ2tjM0xSYnBHN0sxdzBFM3dGUXl3MzYzMW9EZ2x4OTNzc0NkeHBCNko1TjlyemdFNTViWGRtTzdvemI3RFpjRHRPc0VFVmJ1L1pEOERPL0k4b3I5WFlFQTI1WUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTk1ODUxCWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjNfYWFyY2g2NC5kbWcKU3ROV2NjbEY1Z3dmbkcva0xtUzZ3c1J5Y050Q0ExaE9tcjFWdkE0a2tET3lHREdqaWx1dEIwSjFQWXBmUDYrRTQrcUkzU3Vid0g2bkFKeFN5Qk85Q0E9PQo=",
+      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.3/Road-Companion_3.4.3_aarch64.dmg"
     }
   }
 }
