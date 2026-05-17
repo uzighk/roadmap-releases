@@ -1,11 +1,11 @@
 {
-  "version": "3.4.0",
-  "notes": "First signed release with auto-update support. Includes improved confetti animation and custom sparkle icon.",
-  "pub_date": "2026-05-17T04:25:16Z",
+  "version": "3.4.1",
+  "notes": "Update with NEW badge in header. Auto-update system improvements.",
+  "pub_date": "2026-05-17T04:35:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWlYQ2tjM0xSYnJoNWtFbWhCcWlxb3NnOGxDSW4vRmF5dVowUzM5azB5YytIZ2wzbVFQdlZjbUJFRVBJeVBSYTRHWk5yNktWZkw0Rk5XVEp5b3dyTGMvMUtxa2lLR0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTkxODgwCWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjBfYWFyY2g2NC5kbWcKcmVNN1pmVmlNTVZTZUNBUmtzVVBlZUR1NGovQUJvVXRzTnF0S1JhbzFoVlQ1WDk4Y0NtVE9Rd0pMclhWRm1sVFIvVERoK0FEdXRsaVlVNXVtT0RPQXc9PQo=",
-      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.0/Road-Companion_3.4.0_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWlYQ2tjM0xSYm5HS3g5THQ4c0toWjBab0NUbHcrcCtUT1FEK0QrMVZRenQrM29XTndHYkE2ZW8vazRpZk1xSzhPZ09xOXRqbzJZQjI2YWNyQlhPcDNVYThGYUhlS1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTkyNTAzCWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjFfYWFyY2g2NC5kbWcKZU94anMzZ1Fud3pvYmNQZEh5V0RLU1F6dWptV05DMmdiTmZuSko0elFKNkZVcGVZbW53Y2VjRFlpQk11Wk5lSXVENXVzNzlZS1pWWE5xMk4rNnZiQ2c9PQo=",
+      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.1/Road-Companion_3.4.1_aarch64.dmg"
     }
   }
 }
