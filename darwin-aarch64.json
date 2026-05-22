@@ -1,11 +1,11 @@
 {
-  "version": "3.4.3",
-  "notes": "Rocket emoji 🚀 added to header",
-  "pub_date": "2026-05-17T05:04:11Z",
+  "version": "3.4.5",
+  "notes": "- Corrigido auto-update (permissions do updater)\n- Nova chave de assinatura",
+  "pub_date": "2026-05-22T01:10:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNWlYQ2tjM0xSYnBHN0sxdzBFM3dGUXl3MzYzMW9EZ2x4OTNzc0NkeHBCNko1TjlyemdFNTViWGRtTzdvemI3RFpjRHRPc0VFVmJ1L1pEOERPL0k4b3I5WFlFQTI1WUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTk1ODUxCWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjNfYWFyY2g2NC5kbWcKU3ROV2NjbEY1Z3dmbkcva0xtUzZ3c1J5Y050Q0ExaE9tcjFWdkE0a2tET3lHREdqaWx1dEIwSjFQWXBmUDYrRTQrcUkzU3Vid0g2bkFKeFN5Qk85Q0E9PQo=",
-      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.3/Road-Companion_3.4.3_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNlo0MDFUMXZYQWFtd1gwbDd0dTQ0bEZoZHBITWFMR1NIc0VsQ2dmS2s2YUlzQkdnVnVnWkhRT3N4UWlIeHdZalRGckZBOHNVSE1DeGsxQUFzOFFDaVkyS3pDWncvNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDIzNzg2CWZpbGU6Um9hZCBDb21wYW5pb25fMy40LjVfYWFyY2g2NC5kbWcKZnF3ajZ4eUFsWkpxTktOQWtzVjFlZDVoTWhwRFRnUVVMbzVrVXllSEg0V1hKaXExK292RU0xR2loY1V3Zmg4dHNlaXhMOUJqdjk4K3A3VWFQNHkrQXc9PQo=",
+      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.5/Road.Companion_3.4.5_aarch64.dmg"
     }
   }
 }
