@@ -1,10 +1,10 @@
 {
   "version": "3.4.5",
   "notes": "- Corrigido auto-update (permissions do updater)\n- Nova chave de assinatura",
-  "pub_date": "2026-05-22T04:40:00Z",
+  "pub_date": "2026-05-23T18:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNlo0MDFUMXZYQWN3VG9OVTVYM1RvRjRwOEdaNG1FQ283d0ZwbHRiYXhhQjcwL1Z0b05adGE4VEZ5SkVrbXYyQzJKMjk3cUVDNVU4eGNGYklkaXNyTUJYUTU3amdtaXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDI0NzE5CWZpbGU6Um9hZC5Db21wYW5pb25fMy40LjVfYWFyY2g2NC5kbWcKY0h1R00vVE5PTTJEUkVWUnZGekxySmVsUm9QaVY0N0FiQXBZTXNVdHFCZEZZeTNhbVE3UnpvVjBQOXkzNTl4WkhEMGpzay90QTM3anNHWDF6QVNDUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNlo0MDFUMXZYQWVCcnR4aE9KaDFueE1RUmdkKzVhNy83bFBWQ25BL0RIVDkycnJDQ3pEZWZRZXc1cW5McTEvcWdDRUk3VGx6VTBuOHNMWW1BNHdIN2RzaTJVVjZiOFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTYwMTU0CWZpbGU6Um9hZC5Db21wYW5pb25fMy40LjVfYWFyY2g2NC5kbWcKelJNaTh5UzdWL2grKzJRUFNyamJQc3BkcXorMllCUFdjNGFZMEtIeThJT3hSWkh3eXJsMUY4VnJkZHdVOWdWSDlZRkdJV1pqV2t0dHI1N2huS2RPQkE9PQo=",
       "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.5/Road.Companion_3.4.5_aarch64.dmg"
     }
   }
