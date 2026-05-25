@@ -1,11 +1,11 @@
 {
   "version": "3.4.5",
-  "notes": "- Corrigido auto-update (formato correto .app.tar.gz)\n- Nova chave de assinatura",
-  "pub_date": "2026-05-25T01:10:00Z",
+  "notes": "- Corrigido auto-update\n- Nova chave de assinatura",
+  "pub_date": "2026-05-25T02:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGJocldPaXZpdDc4SWJCRk5hZGlSQVBaSnpPeDdUbmU0VHhWemhDNjFJZXBQTnFxQ25FcU5MZ01rMDFRVFRJaTVHN0J1dnkwY3cxRFp4ejJ4UlY1eXhQanZja1dGaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjgzNTQ0CWZpbGU6Um9hZC5Db21wYW5pb25fMy40LjVfYWFyY2g2NC5hcHAudGFyLmd6CmJLZjR0WHl1OHc0VjRRbFVKaVN3UTdGVWtLVDNsTitick5NenFIcjZwWEovaW9nc0ZlanJCRS9WSGZyRC9iS0VKY29ReEFSUUw1UGt5dHcyc0Yzc0R3PT0K",
-      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.5/Road.Companion_3.4.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVGJocldPaXZpdDVLcFFoV2xwcFhPT2xBZGs4QVJuREpndVBCRlVnYkJHZUZMcU4zL2drSHlGbjlPNFc4cHRJSm8rdldFZDBOMEQ1OGlTMnhSc2I3MGVUOW9nRXBkRXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njg1MjkyCWZpbGU6Um9hZCBDb21wYW5pb24uYXBwLnRhci5negpDT29xR1d0Sm5NQ25DMlFWTnNCMzZ3MVV1aWxXSEpiSWIzOGpJczcvencydFFocjFCTFk5U1JCSXVvOWNaN2R3SzlwY0NDTXZQR1NjbmxaRUtkQy9BZz09Cg==",
+      "url": "https://github.com/uzighk/roadmap-releases/releases/download/v3.4.5/Road.Companion.app.tar.gz"
     }
   }
 }
